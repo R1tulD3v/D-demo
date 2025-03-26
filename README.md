@@ -1,2 +1,2 @@
 # D-demo
-This is a demo for git and Git hub class 
+This is a demo for git and Github
